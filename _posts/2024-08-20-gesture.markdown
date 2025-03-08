@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Gesture Recognition based on Infrared Sensors
+startdate: 07/2024
+enddate: 08/2024
+image: /images/gesture_recognition.png
+categories: Course 
+course: Project of 'Comprehensive Design and Practice A' @ Tongji
+author: "Zhengfei SONG"
+code: https://github.com/blackspiderrr/Gesture_Recognition
+report: pdfs/gesture_recognition_report.pdf
+---
+
+This course design covers circuit schematic design, PCB layout, K-Means algorithm clustering, embedded language development, etc., so that the gesture recognizer can sense the rock✊, scissors✌, and paper✋ gestures placed close to the PCB, and display the judgment results in the form of LED lights.
