@@ -7,3 +7,4 @@ categories: Publication
 authors: "<strong>Jiang Boyu</strong>, Yu Wenlong, Lin Lin"
 venue: "IEEE Internet of Things Journal (IF=8.2, SCIE, JCR Q1, 97%) <br> Under Review"
 ---
+<!--In this paper, a simplified neural communication model with external and internal interference is proposed. In our model, external interference from neighboring neurons is characterized by a Poisson distribution, capturing the stochastic nature of interference spikes. Internal interference, attributed to relative refractoriness, which is a neural property reflecting the reduced probability of spike generation shortly after neuron activation, is modeled using a dynamic threshold.-->
