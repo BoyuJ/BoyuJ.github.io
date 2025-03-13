@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "An Efficient Algorithm for Crack Detection with High Accuracy and Speed"
-date:   2023-08-28 22:21:59 +00:00
-image: /images/crack.png
-categories: research
+title:  "A Neural Communication System for the Detection of Neurological Diseases"
+startdate: 11/2023
+enddate: Current
+image: /images/neuron.gif
+categories: Project
 ---
-We developed a new algorithm with both higher accuracy and improved real-time performance. I proposed several modules such as the dynamic boundary extraction module, which enables the model to maintain stable performance when focusing on boundary features, regardless of the crack's thickness.
+This project focuses on developing a neural communication system for detecting neurological diseases. I am involved in constructing an experimental platform for nerve information transmission based on the bullfrog sciatic nerve. Additionally, I test the neural communication system to analyze its performance in real-world applications.
