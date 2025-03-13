@@ -8,4 +8,4 @@ authors: "Jin Zhuoqun, Chen Yao, <strong>Jiang Boyu</strong>, Lin Lin"
 venue: "IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (IF=2.4, JCR Q2) <br>
   Minor Revision (Revised Manuscript Submitted)"
 ---
-<!--In this paper, a simplified neural communication model with external and internal interference is proposed. In our model, external interference from neighboring neurons is characterized by a Poisson distribution, capturing the stochastic nature of interference spikes. Internal interference, attributed to relative refractoriness, which is a neural property reflecting the reduced probability of spike generation shortly after neuron activation, is modeled using a dynamic threshold.-->
+<!--In this paper, a simplified neuralon, capturing the stochastic nature of interference spikes. Internal interference, attributed to relative refractoriness, which is a neural property reflecting the reduced probability of spike generation shortly after neuron activation, is modeled using a dynamic threshold.-->
