@@ -4,7 +4,7 @@ title:  "AeroEye: Snake-like Robot System for Aircraft Engine Damage Detection"
 startdate: 11/2022
 enddate: Recent
 image: /images/aeroeye.gif
-categories: China 
+categories: Project
 course: National University Student Innovation & Entrepreneurship Development Project @ Tongji
 author: "Jiang Boyu"
 website: https://boyuj.github.io/aero/
