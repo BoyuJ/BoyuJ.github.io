@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "DIY a Tracking Car"
-startdate: 10/2024
-enddate: 11/2024
-image: /images/tracking.gif
-categories: Course
-course: Projects of EE3005 Systems and Control @ PolyU
-author: "Zhengfei Song"
+title: "Clock Synchronization of IoBNT Using Self-Sustaining Oscillations via Protein Circuit Design"
+date: 2025-03-13 22:21:59 +00:00
+image: images/PubFig3.png
+categories: Publication
+authors: |
+ <strong>Jiang Boyu</strong>, Yu Wenlong, Lin Lin
+venue: |
+  IEEE Internet of Things Journal (IF=8.2, SCIE, JCR Q1, 97%) <br> 
+  Under Review
 ---
-I assembled and welded a tracking car, which uses the photosensitive elements and photoresistors at the bottom of the car to find the track and control the direction.
