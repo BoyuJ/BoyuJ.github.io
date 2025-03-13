@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Handwritten Digit Recognition"
-startdate: 05/2024
-enddate: 06/2024
-image: /images/digit_recognition.gif
-categories: Course 
-course: Project of 'Embedded System' @ Tongji
-author: "Zhengfei SONG"
-code: https://github.com/blackspiderrr/Embedded_Development_of_Handwritten_Digit_Recognition
-report: pdfs/digit_recognition_report.pdf
+title:  "Confocal Microscope Image Analysis Based on Computer Vision"
+startdate: 06/2024
+enddate: 10/2024
+image: /images/SAM.gif
+categories: Project 
+course: BioProgamming Lab @ Westlake
+author: "Jiang Boyu"
 ---
-This is embedded system development of handwritten digit recognition based on STM32H747I-DISCO. A basic CNN structure is used to detect and classify digits, which performs very well on the MNIST Dataset. We also use CubeAI as a bridge between neural networks and embedded systems.
+This project focuses on artificial cell division driven by oscillatory phenomena, leveraging de novo protein design. My work involves quantitative analysis of oscillatory behaviors using computer vision, as well as segmentation and statistical processing of confocal microscopy images with SAM and Fiji. Additionally, I model protein circuits and diffusion processes based on ordinary differential equations (ODEs) to better understand the underlying mechanisms of artificial cell division.
 
