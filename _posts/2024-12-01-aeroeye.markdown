@@ -12,4 +12,4 @@ patent1: /pdfs/patent1.pdf
 patent2: /pdfs/patent2.pdf
 ---
 
-We aimed to build a snake-like robot system for aircraft engine damage detection. I was responsible for robot configuration design and used YOLOv5 to detect cracks based on a small dataset of metal cracks. We have won several awards including the Grand Prize of 2023-2024 Huawei ICT(Information and Communication Technology) Competition Global Final.   
+We aimed to build a snake-like robot system for aircraft engine damage detection. I was responsible for robot configuration design and used YOLOv5 to detect cracks based on a small dataset of metal cracks. We have won several awards including the Grand Prize of 2023-2024 Huawei ICT(Information and Communication Technology) Competition Global Final. For more information, please click on the 'website' to view.
