@@ -7,4 +7,4 @@ image: /images/Neuron.gif
 categories: Project
 course: Shanghai Student Innovation and Entrepreneurship Program @ Tongji University School of Medicine
 ---
-This project focuses on developing a neural communication system for detecting neurological diseases. I am involved in constructing an experimental platform for nerve information transmission based on the bullfrog sciatic nerve. Additionally, I test the neural communication system to analyze its performance in real-world applications.
+We focused on developing a neural communication system for detecting neurological diseases. I was involved in constructing an experimental platform for nerve information transmission based on the bullfrog sciatic nerve. Additionally, I tested the neural communication system to analyze its performance in real-world applications.
